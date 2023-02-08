@@ -1,7 +1,7 @@
 # DWRChatbot
 Welcome to Our Drinking Water Regulations Chatbot Repo!
 
-This project aims to build a chatbot that is capable of answering user questions about California Drinking Water Regulations. The project will be documented in a paper which will be published in the industry publications if conditions are suffice.
+This project aims to build a chatbot that is capable of answering user questions about California Drinking Water Regulations. The project will be documented in a paper which will be published in the industry publications if conditions are sufficient.
 
 Project team members include water industry professionals at the California Water Resource Control Boards and California Data Collaborative who are teamed up with students participating in the UCB Data Science Discovery Program.
 
